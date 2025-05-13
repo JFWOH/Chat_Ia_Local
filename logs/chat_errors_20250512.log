@@ -1,0 +1,532 @@
+2025-05-12 22:31:10,071 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:31:10,071 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:31:10,071 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:31:10,071 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:34:03,590 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:03,590 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:03,590 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:03,590 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:03,590 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:25,755 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:25,755 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:25,755 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:25,755 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:25,755 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:34,995 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:34,995 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:34,995 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:34,995 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:34:34,995 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:38:17,977 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:38:17,977 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:38:17,977 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:38:17,977 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:38:25,142 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:38:25,142 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:38:25,142 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:38:25,142 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:38:25,142 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:43:25,024 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:43:25,024 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:43:25,024 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:43:25,024 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:43:35,119 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:43:35,119 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:43:35,119 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:43:35,119 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:43:35,119 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:46:16,267 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:46:16,267 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:46:16,267 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:46:16,267 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:46:25,115 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:46:25,115 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:46:25,115 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:46:25,115 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:46:25,115 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:51:49,069 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:51:49,069 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:51:49,069 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:51:49,069 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:51:56,299 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:51:56,299 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:51:56,299 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:51:56,299 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:51:56,299 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:52:14,335 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:52:14,335 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:52:14,335 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:52:14,335 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:52:22,173 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:52:22,173 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:52:22,173 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:52:22,173 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:52:22,173 - chat_app - ERROR - Error in generate: Ollama API error: 404
+File: h:\PYTHON\Chat Ia Local\backend\ollama_client.py
+Line: 68
+Function: generate
+Stack Trace:
+None
+
+2025-05-12 22:59:17,912 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:59:17,912 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:59:17,912 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 22:59:17,912 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 23:13:55,919 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 23:13:55,919 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 23:13:55,919 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 23:13:55,919 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 23:27:05,713 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 23:27:05,713 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 23:27:05,713 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+
+2025-05-12 23:27:05,713 - chat_app - ERROR - Error setting up database: unable to open database file
+File: h:\PYTHON\Chat Ia Local\backend\semantic_cache.py
+Line: 36
+Function: setup_database
+Stack Trace:
+None
+

@@ -1,0 +1,12 @@
+customtkinter==5.2.2
+aiohttp==3.9.3
+sentence-transformers==2.2.2
+torch==2.2.0
+transformers==4.37.2
+numpy==1.24.3
+sqlite3worker==1.1.7
+python-dotenv==1.0.0
+markdown==3.5.2
+sounddevice==0.4.6
+soundfile==0.12.1
+nvidia-ml-py3==7.352.0 
